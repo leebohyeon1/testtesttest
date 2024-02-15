@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &434653033844284028
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 690214653689859216, guid: 76d2c798f15cf24468a3269d180f4456, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 4.67
+      objectReference: {fileID: 0}
+    - target: {fileID: 690214653689859216, guid: 76d2c798f15cf24468a3269d180f4456, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.48
+      objectReference: {fileID: 0}
+    - target: {fileID: 690214653689859216, guid: 76d2c798f15cf24468a3269d180f4456, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 690214653689859216, guid: 76d2c798f15cf24468a3269d180f4456, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 690214653689859216, guid: 76d2c798f15cf24468a3269d180f4456, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 690214653689859216, guid: 76d2c798f15cf24468a3269d180f4456, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 690214653689859216, guid: 76d2c798f15cf24468a3269d180f4456, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 690214653689859216, guid: 76d2c798f15cf24468a3269d180f4456, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 690214653689859216, guid: 76d2c798f15cf24468a3269d180f4456, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 690214653689859216, guid: 76d2c798f15cf24468a3269d180f4456, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2580470529842459459, guid: 76d2c798f15cf24468a3269d180f4456, type: 3}
+      propertyPath: DropWeapons.Array.size
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2580470529842459459, guid: 76d2c798f15cf24468a3269d180f4456, type: 3}
+      propertyPath: DropWeapons.Array.data[4]
+      value: fan
+      objectReference: {fileID: 0}
+    - target: {fileID: 2580470529842459459, guid: 76d2c798f15cf24468a3269d180f4456, type: 3}
+      propertyPath: DropWeapons.Array.data[5]
+      value: fan
+      objectReference: {fileID: 0}
+    - target: {fileID: 4170849312624327969, guid: 76d2c798f15cf24468a3269d180f4456, type: 3}
+      propertyPath: m_SynchronizeParameters.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4170849312624327969, guid: 76d2c798f15cf24468a3269d180f4456, type: 3}
+      propertyPath: m_SynchronizeParameters.Array.data[0].SynchronizeType
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4594588563255395631, guid: 76d2c798f15cf24468a3269d180f4456, type: 3}
+      propertyPath: m_Name
+      value: machine Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 5993813817139098301, guid: 76d2c798f15cf24468a3269d180f4456, type: 3}
+      propertyPath: sceneViewId
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6869356630999202477, guid: 76d2c798f15cf24468a3269d180f4456, type: 3}
+      propertyPath: m_FlipX
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7520733584302147077, guid: 76d2c798f15cf24468a3269d180f4456, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 674a10bdb4d2a0b47a10edf09bbe3615, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 76d2c798f15cf24468a3269d180f4456, type: 3}

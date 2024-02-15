@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6190896834305322901
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 471015148407182855, guid: b75311e09761c6c43b037f955e02437b, type: 3}
+      propertyPath: sceneViewId
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4465371231543763647, guid: b75311e09761c6c43b037f955e02437b, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: f909885347917974cb000055e5f00e6e, type: 2}
+    - target: {fileID: 6643670036243294250, guid: b75311e09761c6c43b037f955e02437b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6643670036243294250, guid: b75311e09761c6c43b037f955e02437b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6643670036243294250, guid: b75311e09761c6c43b037f955e02437b, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6643670036243294250, guid: b75311e09761c6c43b037f955e02437b, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6643670036243294250, guid: b75311e09761c6c43b037f955e02437b, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6643670036243294250, guid: b75311e09761c6c43b037f955e02437b, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6643670036243294250, guid: b75311e09761c6c43b037f955e02437b, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6643670036243294250, guid: b75311e09761c6c43b037f955e02437b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6643670036243294250, guid: b75311e09761c6c43b037f955e02437b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6643670036243294250, guid: b75311e09761c6c43b037f955e02437b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7666373224353833365, guid: b75311e09761c6c43b037f955e02437b, type: 3}
+      propertyPath: m_Name
+      value: Mummy Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 7802197710511249819, guid: b75311e09761c6c43b037f955e02437b, type: 3}
+      propertyPath: m_SynchronizeLayers.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7802197710511249819, guid: b75311e09761c6c43b037f955e02437b, type: 3}
+      propertyPath: m_SynchronizeParameters.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7802197710511249819, guid: b75311e09761c6c43b037f955e02437b, type: 3}
+      propertyPath: m_SynchronizeParameters.Array.data[0].Name
+      value: IsDead
+      objectReference: {fileID: 0}
+    - target: {fileID: 7802197710511249819, guid: b75311e09761c6c43b037f955e02437b, type: 3}
+      propertyPath: m_SynchronizeParameters.Array.data[0].Type
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 7802197710511249819, guid: b75311e09761c6c43b037f955e02437b, type: 3}
+      propertyPath: m_SynchronizeParameters.Array.data[0].SynchronizeType
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8532210672654325753, guid: b75311e09761c6c43b037f955e02437b, type: 3}
+      propertyPath: DropWeapons.Array.size
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8532210672654325753, guid: b75311e09761c6c43b037f955e02437b, type: 3}
+      propertyPath: DropWeapons.Array.data[3]
+      value: bell
+      objectReference: {fileID: 0}
+    - target: {fileID: 8532210672654325753, guid: b75311e09761c6c43b037f955e02437b, type: 3}
+      propertyPath: DropWeapons.Array.data[4]
+      value: fan
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b75311e09761c6c43b037f955e02437b, type: 3}
